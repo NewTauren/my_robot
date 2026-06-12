@@ -1,0 +1,9 @@
+log/
+build/
+install/
+*.pyc
+__pycache__/
+.vscode/
+*.db
+*.db-shm
+*.db-wal
